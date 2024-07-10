@@ -1,1 +1,1 @@
-# Stepik_Selenium
+https://stepik.org/course/575/syllabus
